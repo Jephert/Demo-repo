@@ -1,3 +1,3 @@
-# A read me file
+# Read me
 
-Some description.
+I'm learning git
